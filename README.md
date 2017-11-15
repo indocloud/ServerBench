@@ -3,7 +3,7 @@
 
 
 ### Download the script:
-`wget --no-check-certificate https://raw.githubusercontent.com/K4Y5/ServerBench/master/serverbench.sh`
+`wget --no-check-certificate https://raw.githubusercontent.com/indocloud/ServerBench/master/serverbench.sh`
 
 ### Make it executable:
 `chmod +x serverbench.sh`
